@@ -59,7 +59,7 @@
                 "type": "felt"
             }
         ],
-        "name": "SNtoHEEVM",
+        "name": "SNtoEVM",
         "outputs": [],
         "type": "function"
     }

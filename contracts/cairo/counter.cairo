@@ -7,7 +7,7 @@ from starkware.cairo.common.cairo_builtins import HashBuiltin
 from starkware.cairo.common.alloc import alloc
 #from starkware.cairo.common.Uint256 import Uint256
 from starkware.starknet.common.messages import send_message_to_l1
-from starkware.cairo.common.math import assert_not_zero, assert_le
+from starkware.cairo.common.math import assert_le
 
 ## Represents an integer in the range [0, 2^256).
 #struct Uint256:
